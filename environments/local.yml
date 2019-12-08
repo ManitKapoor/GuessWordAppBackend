@@ -1,0 +1,3 @@
+SERVICE: "guesswordapi"
+DATA_SOURCE_TABLE: "guesswordapi-data-source"
+REGION: "us-east-2"
